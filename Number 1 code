@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 #include<math.h>
 int main()
 {
     int m;
-    double lambda, theta_deg,theta_rad, d;
+    double lambda,theta_deg,theta_rad,d;
 
     printf("Enter the wavelength (in nm): ");
     scanf("%lf",&lambda);
