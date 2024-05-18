@@ -19,7 +19,7 @@ int main()
 
     theta_rad=theta_deg*(M_PI/180.0);
 
-    printf("Enter the slit separation (in micrometers): ");
+    printf("Enter the slit separation (in micrometer): ");
     scanf("%lf",&d);
 
     d=d*1e-6;
